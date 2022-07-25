@@ -1,11 +1,11 @@
 {
     "name": "comtest1",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "",
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "comtest1": "github:numraise/comtest1#v0.0.2"
+        "comtest1": "github:numraise/comtest1"
     },
     "files": [
         "main.blocks",
